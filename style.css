@@ -1,0 +1,144 @@
+.outer_border {
+    margin: auto;
+    height: 600px;
+    width: 600px;
+    border: solid 1px black;
+    background-color: black;
+    border-radius: 20px;
+}
+
+.inner_border {
+    height: 520px;
+    width: 520px;
+    border: solid 1px black;
+    background-color: rgb(236, 183, 120);
+    border-radius: 20px;
+    margin: 40px;
+}
+
+.uhole {
+    height: 30px;
+    width: 520px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.bhole {
+    height: 30px;
+    width: 520px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.hole {
+    height: 30px;
+    width: 30px;
+    border-radius: 50px;
+    background-color: black;
+}
+
+.parea {
+    height: 420px;
+    width: 420px;
+    margin-left: 50px;
+    margin-top: 20px;
+    background-color: rgb(236, 183, 120);
+}
+
+.uline {
+    height: 30px;
+    width: 350px;
+    border: solid black;
+    border-bottom: solid 1px black;
+    background-color: antiquewhite;
+    border-radius: 50px;
+    float: left;
+    margin-left: 30px;
+}
+
+.lline {
+    height: 350px;
+    width: 30px;
+    border: solid black;
+    border-right: solid black;
+    background-color: antiquewhite;
+    border-radius: 50px;
+    float: left;
+    margin-top: -5px;
+}
+
+.middle {
+    height: 99px;
+    width: 99px;
+    float: left;
+    margin: 120px;
+    border-radius: 50px;
+    border: solid 2px red;
+}
+
+.centre {
+    height: 20px;
+    width: 20px;
+    background-color: red;
+    border-radius: 50px;
+    margin: 40px;
+}
+
+.rline {
+    height: 350px;
+    width: 30px;
+    border: solid black;
+    border-left: solid 1px black;
+    background-color: antiquewhite;
+    border-radius: 50px;
+    float: left;
+    margin-top: -5px;
+    margin-left: 4px;
+}
+
+.bline {
+    height: 30px;
+    width: 350px;
+    border: solid black;
+    background-color: antiquewhite;
+    border-radius: 50px;
+    border-top: solid 1px black;
+    float: left;
+    margin-left: 30px;
+    margin-top: -3px;
+}
+
+.ball {
+    height: 30px;
+    width: 30px;
+    margin: -3px;
+    border: solid 3px red;
+    border-radius: 50px;
+}
+
+.ball1 {
+    margin-top: 287px;
+    border: solid 3px red;
+    border-radius: 50px;
+    height: 30px;
+    width: 30px;
+    margin-left: -3px;
+}
+
+.outer_ball {
+    height: 30px;
+    width: 30px;
+    border: solid 1px red;
+    border-radius: 50px;
+    margin: -1px;
+
+}
+
+.inner_ball {
+    height: 20px;
+    width: 20px;
+    background-color: red;
+    border-radius: 50px;
+    margin: 5px
+}
